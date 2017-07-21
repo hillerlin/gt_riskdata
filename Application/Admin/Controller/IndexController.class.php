@@ -5,7 +5,6 @@ class IndexController extends CommonController {
     public function index()
     {
         $user_info = session('user_info');
-        /* @var $admin_auth_group_access_model \Admin\Model\AdminAuthGroupAccessModel */
         $admin_auth_group_access_model = D('AdminAuthGroupAccess');
         $menus = $admin_auth_group_access_model->getUserRules($user_info['id']);
         $this->assign('menus', $menus);
