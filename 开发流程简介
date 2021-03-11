@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T09:47:46.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" version="14.4.7" etag="P9WHMep2K8Cubn_5A-Ho" type="github"><diagram id="E3I8drMiOjqvuX0sdemK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-11T10:03:07.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.75 Safari/537.36" etag="XDeIJ84c4Y4Obhzz1bJB" version="14.4.7" type="github">
+  <diagram id="E3I8drMiOjqvuX0sdemK" name="Page-1">
+    <mxGraphModel dx="2249" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BuzVWXPxPOSHH2EMbG8v-1" target="BuzVWXPxPOSHH2EMbG8v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BuzVWXPxPOSHH2EMbG8v-1" target="BuzVWXPxPOSHH2EMbG8v-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-1" value="开发人员熟悉jeecg框架" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BuzVWXPxPOSHH2EMbG8v-2" target="BuzVWXPxPOSHH2EMbG8v-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-2" value="前端需要了解jeecg系统前端部分：开发框架Vue:路由，请求方式，页面结构，代码编写风格，系统自带功能：在线表单生成，权限模块设计，用户结构设计。。。&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="100" width="450" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BuzVWXPxPOSHH2EMbG8v-3" target="BuzVWXPxPOSHH2EMbG8v-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BuzVWXPxPOSHH2EMbG8v-12" target="BuzVWXPxPOSHH2EMbG8v-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="450" />
+              <mxPoint x="320" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-12" value="&lt;span&gt;后台人员根据业务需求开始设计数据库相关表单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="320" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BuzVWXPxPOSHH2EMbG8v-13" target="BuzVWXPxPOSHH2EMbG8v-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-13" value="前端通过后台开发提供的数据库表单使用jeecg系统提供的在线表单功能生成默认样式表单页面包含简单增删查改，并根据原型图调整页面，实现所需功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="300" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BuzVWXPxPOSHH2EMbG8v-15" target="BuzVWXPxPOSHH2EMbG8v-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-15" value="前端根据原型图完成页面交互功能逻辑设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="320" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BuzVWXPxPOSHH2EMbG8v-19" target="BuzVWXPxPOSHH2EMbG8v-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-19" value="前后端接口联调，解决发现的问题" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BuzVWXPxPOSHH2EMbG8v-20" value="测试业务流程，校对页面样式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
